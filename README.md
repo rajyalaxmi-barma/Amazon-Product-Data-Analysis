@@ -1,2 +1,2 @@
-# Amazon-Product-Data-Analysis
-Amazon Product Data Analysis using Python, Pandas and BeautifulSoup
+# Flipkart-Product-Data-Analysis
+Flipkart Product Data Analysis using Python, Pandas and BeautifulSoup
